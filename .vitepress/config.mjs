@@ -6,7 +6,7 @@ export default defineConfig({
   vite: { plugins: [SearchPlugin()] },
   title: "grunt DNA",
   description: "An assessment of grunt's digital footprint, 2024 (ongoing)",
-  base: '/grunt-gallery.github.io/grunt-digital-audit/',
+  base: 'https://grunt-gallery.github.io/grunt-digital-audit/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
