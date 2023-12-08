@@ -43,11 +43,14 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/grunt-gallery/' },
       {
         icon: "instagram",
         link: "https://instagram.com/gruntgallery",
       },
+      { 
+        icon: 'github', 
+        link: 'https://github.com/grunt-gallery/' 
+      },  
     ]
   }
 })
