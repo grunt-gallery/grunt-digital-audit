@@ -18,6 +18,7 @@ export default defineConfig({
       }
     },
     externalLinkIcon: true,
+    cleanUrls: true,
     head: [
       ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
       ['link', { rel: 'icon', sizes: '32x32', type: 'image/png', href: '/favicon-32x32.png' }],
@@ -27,20 +28,37 @@ export default defineConfig({
       ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }],
       ['meta', { name: 'theme-color', content: '#ffffff' }]
     ],
+
+    // head: [
+    //   ['link', { rel: 'icon', type: 'image/svg+xml', href: '/vitepress-logo-mini.svg' }],
+    //   ['link', { rel: 'icon', type: 'image/png', href: '/vitepress-logo-mini.png' }],
+    //   ['meta', { name: 'theme-color', content: '#5f67ee' }],
+    //   ['meta', { name: 'og:type', content: 'website' }],
+    //   ['meta', { name: 'og:locale', content: 'en' }],
+    //   ['meta', { name: 'og:site_name', content: 'VitePress' }],
+    //   ['meta', { name: 'og:image', content: 'https://vitepress.dev/vitepress-og.jpg' }],
+    //   ['script', { src: 'https://cdn.usefathom.com/script.js', 'data-site': 'AZBRSFGG', 'data-spa': 'auto', defer: '' }]
+    // ],
+
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      // { text: 'Home', link: '/' },
+      { text: 'Introduction', link: '/introduction' }
     ],
 
     sidebar: [
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'Introduction', link: '/introduction' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
+
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2024-present grunt'
+    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/grunt-gallery/' },

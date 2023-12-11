@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started 
-      link: /markdown-examples
+      link: /introduction
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
@@ -26,3 +26,9 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+<style>
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
+}
+</style>
