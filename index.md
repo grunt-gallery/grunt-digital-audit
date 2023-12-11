@@ -24,6 +24,9 @@ features:
   - icon: 📚
     title: Archives & Access
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 📚
+    title: Archive
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
 <style>
