@@ -47,12 +47,46 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'What is this?',
+        collapsed: false,
         items: [
           { text: 'Introduction', link: '/introduction' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          // { text: 'Runtime API Examples', link: '/api-examples' },
+          // { text: 'Routing', link: 'routing' },
+          // { text: 'Deploy', link: 'deploy' }
         ]
-      }
+      },
+      {
+        text: 'Exhibitions & Programming',
+        collapsed: false,
+        items: [
+          // { text: 'Markdown Extensions', link: 'markdown' },
+          // { text: 'Asset Handling', link: 'asset-handling' },
+          // { text: 'Frontmatter', link: 'frontmatter' },
+          // { text: 'Using Vue in Markdown', link: 'using-vue' },
+          // { text: 'Internationalization', link: 'i18n' }
+        ]
+      },
+      {
+        text: 'Outreach & Community',
+        collapsed: false,
+        items: [
+          { text: 'Mount Pleasant Community Art Screen', link: 'mpcas' },
+          // { text: 'Extending the Default Theme', link: 'extending-default-theme' },
+          // { text: 'Build-Time Data Loading', link: 'data-loading' },
+          // { text: 'SSR Compatibility', link: 'ssr-compat' },
+          // { text: 'Connecting to a CMS', link: 'cms' }
+        ]
+      },
+      {
+        text: 'Archives & Access',
+        collapsed: false,
+        items: [
+          // { text: 'MPA Mode', link: 'mpa-mode' },
+          // { text: 'Sitemap Generation', link: 'sitemap-generation' }
+        ]
+      },
+      { text: 'Config & API Reference', base: '/reference/', link: 'site-config' }
     ],
 
     footer: {

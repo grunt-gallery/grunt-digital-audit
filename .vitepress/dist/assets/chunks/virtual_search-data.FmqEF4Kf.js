@@ -7,10 +7,10 @@ const t={map:'[{"runtime":["0.0"],"results":["0.1","0.5"],"theme":["0.2","0.6"],
 `,l:"api-examples.html#page-frontmatter",a:"page-frontmatter"},"0.5":{t:"Results",p:"",l:"api-examples.html#results",a:"results"},"0.6":{t:"Theme Data",p:`&lt;pre&gt;{{ theme }}&lt;/pre&gt;
 `,l:"api-examples.html#theme-data",a:"theme-data"},"0.7":{t:"Page Data",p:`&lt;pre&gt;{{ page }}&lt;/pre&gt;
 `,l:"api-examples.html#page-data",a:"page-data"},"0.8":{t:"Page Frontmatter",p:`&lt;pre&gt;{{ frontmatter }}&lt;/pre&gt;
-`,l:"api-examples.html#page-frontmatter",a:"page-frontmatter"},"0.9":{t:"More",p:"Check out the documentation for the full list of runtime APIs. ...",l:"api-examples.html#more",a:"more"},"2.0":{t:"# Markdown Extension Examples",p:"This page demonstrates some of the built-in markdown extension ...",l:"markdown-examples.html",a:"markdown-extension-examples"},"2.1":{t:"Syntax Highlighting",p:"VitePress provides Syntax Highlighting powered by Shikiji, wit ...",l:"markdown-examples.html#syntax-highlighting",a:"syntax-highlighting"},"2.2":{t:"Custom Containers",p:`Input
+`,l:"api-examples.html#page-frontmatter",a:"page-frontmatter"},"0.9":{t:"More",p:"Check out the documentation for the full list of runtime APIs. ...",l:"api-examples.html#more",a:"more"},"2.0":{t:"# Markdown Extension Examples",p:"This page demonstrates some of the built-in markdown extension ...",l:"introduction.html",a:"markdown-extension-examples"},"2.1":{t:"Syntax Highlighting",p:"VitePress provides Syntax Highlighting powered by Shikiji, wit ...",l:"introduction.html#syntax-highlighting",a:"syntax-highlighting"},"2.2":{t:"Custom Containers",p:`Input
 ::: info
 This is an info box.
 :::
 
 ::: tip
-This is a tip ...`,l:"markdown-examples.html#custom-containers",a:"custom-containers"},"2.3":{t:"More",p:"Check out the documentation for the full list of markdown exte ...",l:"markdown-examples.html#more",a:"more"}},a={previewLength:62,buttonLabel:"Search",placeholder:"Search docs",allow:[],ignore:[]},s={INDEX_DATA:t,PREVIEW_LOOKUP:e,Options:a};export{s as default};
+This is a tip ...`,l:"introduction.html#custom-containers",a:"custom-containers"},"2.3":{t:"More",p:"Check out the documentation for the full list of markdown exte ...",l:"introduction.html#more",a:"more"}},a={previewLength:62,buttonLabel:"Search",placeholder:"Search docs",allow:[],ignore:[]},n={INDEX_DATA:t,PREVIEW_LOOKUP:e,Options:a};export{n as default};

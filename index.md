@@ -16,13 +16,13 @@ hero:
 
 features:
   - icon: 🖼️
-    title: Exhibitions
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - icon: 📚
-    title: Archive
+    title: Exhibitions & Programming
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon: 🤲
-    title: Outreach
+    title: Outreach & Community
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 📚
+    title: Archives & Access
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
