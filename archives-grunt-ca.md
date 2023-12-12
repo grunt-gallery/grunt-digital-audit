@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Runtime API Examples
+# Mount Pleasant Community Art Screen
 
 This page demonstrates usage of some of the runtime APIs provided by VitePress.
 

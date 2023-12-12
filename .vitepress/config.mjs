@@ -51,42 +51,37 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Introduction', link: '/introduction' },
-          // { text: 'Runtime API Examples', link: '/api-examples' },
-          // { text: 'Routing', link: 'routing' },
-          // { text: 'Deploy', link: 'deploy' }
+          { text: 'Format', link: '/format' },
+          { text: 'Using GitHub', link: '/github' },
+          { text: 'Accessibility', link: '/accessibility' },
         ]
       },
       {
         text: 'Exhibitions & Programming',
         collapsed: false,
         items: [
-          // { text: 'Markdown Extensions', link: 'markdown' },
-          // { text: 'Asset Handling', link: 'asset-handling' },
-          // { text: 'Frontmatter', link: 'frontmatter' },
-          // { text: 'Using Vue in Markdown', link: 'using-vue' },
-          // { text: 'Internationalization', link: 'i18n' }
+          { text: 'grunt.ca', link: '/grunt-ca' },
+          { text: 'Mount Pleasant Community Art Screen', link: '/mpcas' },
         ]
       },
       {
         text: 'Outreach & Community',
         collapsed: false,
         items: [
-          { text: 'Mount Pleasant Community Art Screen', link: 'mpcas' },
-          // { text: 'Extending the Default Theme', link: 'extending-default-theme' },
-          // { text: 'Build-Time Data Loading', link: 'data-loading' },
-          // { text: 'SSR Compatibility', link: 'ssr-compat' },
-          // { text: 'Connecting to a CMS', link: 'cms' }
+          { text: 'Outreach', link: '/outreach' },
+          { text: 'Social Media', link: '/social-media' },
         ]
       },
       {
         text: 'Archives & Access',
         collapsed: false,
         items: [
-          // { text: 'MPA Mode', link: 'mpa-mode' },
-          // { text: 'Sitemap Generation', link: 'sitemap-generation' }
+          { text: 'archives.grunt.ca', link: 'archives-grunt-ca' },
+          { text: 'Website Inventory', link: 'website-inventory' },
+          { text: 'Backups', link: '/backups' },
         ]
       },
-      { text: 'Config & API Reference', base: '/reference/', link: 'site-config' }
+      { text: 'Conclusion', link: '/conclusion' }
     ],
 
     footer: {
