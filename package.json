@@ -5,8 +5,11 @@
     "vitepress-plugin-search": "^1.0.4-alpha.20"
   },
   "scripts": {
+    "dev": "vitepress dev",
     "docs:dev": "vitepress dev",
+    "build": "vitepress build",
     "docs:build": "vitepress build",
+    "preview": "vitepress preview",
     "docs:preview": "vitepress preview"
   }
 }

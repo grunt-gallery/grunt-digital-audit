@@ -1,17 +1,33 @@
 # Format
 
-lorem
+The deliverable format for this report is a git repository. 
+
+[Git](https://git-scm.com/) is a distributed version control system for the management of computer files. Git tracks changes that are made to files so as to coordinate the work of contributors who are working collaboratively. A [git repository](https://www.gitkraken.com/learn/git/tutorials/what-is-a-git-repository) is a folder of computer files that is managed by git, so that multiple contributors can access and make changes to the files in a way that is structured, traceable, and secure.
+
+Although there is only one author of this report, the idea is to put into place collaborative working methods that can expand over time to give proper credit to all those who choose contribute to grunt's digital tools. There are also many past contributors to grunt's public-facing digital tools who are only partially acknowledged through comments made to the code base.
+
+Git is offered under the [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License) — a free and open-source software license — and works on all major computer operating systems.
+
+## Markdown
+
+The content of this report is written in [Markdown](https://en.wikipedia.org/wiki/Markdown), a lightweight markup language for creating formatted text using a plain-text editor. A markdown processor can create .PDF, .DOCX, and  HTML outputs, among others.
 
 ## Web-based Delivery
 
-### Digital Response
+### A Digital Response to a Digital Challenge
 
-The report uses simple HTML. It is readable on a browser and prioritizes best practices for screen readers. Anyone who uses written or narrated English can follow and understand this report. Colours used throughtout the report were tested to be accessible for those with colour blindness and to pass contrast tests. There are three main audience tags used:
+This report can be accessed through a web browser. 
 
-The SFU Galleries (SFUG) Arts Workers tag includes those who work behind the scenes at the gallery and who carry out much of the inclusion work. It also includes artists who work as content producers, workshop facilitators, or featured artists in exhibitions. Staff and arts workers are often overlooked in access reporting, perpetuating ableism within gallery systems and services. SFU Galleries must hire, sustain, and support Disabled workers or workers living with disabilities in their staff, or lose the chance to benefit from a rich pool of potential workers and miss out on informed and authentic conversations with their audiences. The goal is not simply to serve inclusively but to be inclusive.
+The source code for making the report can be accessed as [files](https://github.com/grunt-gallery/grunt-digital-audit), and the presentation of those files as HTML can be accessed as a [website](https://grunt-gallery.github.io/grunt-digital-audit/).
 
-The SFUG Audience tag contains the public audiences SFU Galleries serves by holding events, exhibitions, and arts programming. This audience wants to attend the gallery or programming for their purposes. They are non-academic and may or may not have an arts background, although they are interested in arts and culture. This audience includes non-SFU education contacts, such as teachers and students from other schools.
+This report is intended to be a "[living document](https://en.wikipedia.org/wiki/Living_document)" that can change over time.
 
-The SFUG Network tag includes Simon Fraser University students, teachers, and departments. It will also include work and interactions related to the Public Art on campus in Burnaby.
+This report is digital, so that it can be easily accessed and edited. 
 
-Users of this report can navigate through this report by audience tag by doing a browser search using: SFUGartsWorkers, SFUGaudience, and SFUGnetwork
+All section headings have permalink anchors so that sections of the report can be easily referenced in online discussions and funding reports. 
+
+![Alt text](/digital_response.gif "Example of making a permalink from heading content")
+
+If you click the "#" icon that appears when you hover a section heading, you can copy the address in the URL bar that references that heading.
+
+
