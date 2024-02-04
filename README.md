@@ -2,4 +2,4 @@
 
 Readme 🤙
 
-[https://grunt-gallery.github.io/grunt-digital-audit](https://grunt-gallery.github.io/grunt-digital-audit)
+[https://digital-audit.grunt.ca/](https://digital-audit.grunt.ca/)
