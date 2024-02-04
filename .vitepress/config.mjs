@@ -7,6 +7,7 @@ export default defineConfig({
   title: "grunt DNA",
   description: "An assessment of grunt's digital footprint, 2024 (ongoing)",
   base: '/grunt-digital-audit/',
+  // digital-audit.grunt.ca
   srcExclude: ['**/README.md', '**/TODO.md'],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -80,6 +81,7 @@ export default defineConfig({
           { text: 'archives.grunt.ca', link: 'archives-grunt-ca' },
           { text: 'Website Inventory', link: 'website-inventory' },
           { text: 'Backups', link: '/backups' },
+          { text: 'Legacy Website Strategy', link: '/legacy-website-strategy' },
         ]
       },
       { text: 'Conclusion', link: '/conclusion' }

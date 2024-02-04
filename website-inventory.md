@@ -6,10 +6,6 @@ In 2023, SFU Galleries engaged an external consultant to review their digital la
 
 ## Web Maintenance
 
-This report uses a social language writing style. SFU Galleries sits at the intersection of the academic world, the fine arts community, and the public. It is best to consider the audience with the most challenges and centre them when building access into policy. While universal access is not possible, it is always the goal. This report aims for a grade 10/11 reading level and 60% on the Flesch Reading Ease to strike a balance between accessible and professional. A grade 9 reading level is the recommended reading level when writing content for the web.
-
-SFU Galleries may feel pressure to communicate in more academic ways due to its connection to the University and the Fine Arts Community.
-
 ## Web Inventory
 
 | Tables        |      Are      |  Cool |
