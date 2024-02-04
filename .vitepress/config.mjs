@@ -7,6 +7,17 @@ export default defineConfig({
   title: "grunt DNA",
   description: "An assessment of grunt's digital footprint, 2024 (ongoing)",
   // base: '/grunt-digital-audit/',
+  head: [
+    ['script', { src: 'https://cdn.userway.org/widget.js', 'data-account': 'B0I6yz9cSR' }],
+    // ['script', { src: 'https://code.jquery.com/jquery-3.4.1.min.js' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
+    ['link', { rel: 'icon', sizes: '32x32', type: 'image/png', href: '/favicon-32x32.png' }],
+    ['link', { rel: 'icon', sizes: '16x16', type: 'image/png', href: '/favicon-16x16.png' }],
+    ['link', { rel: 'manifest', href: '/site.webmanifest' }],
+    ['link', { rel: 'mask-icon', href: '/safari-pinned-tab.svg', color: '#5bbad5' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }],
+    ['meta', { name: 'theme-color', content: '#ffffff' }],
+  ],
   srcExclude: ['**/README.md', '**/TODO.md'],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -20,18 +31,6 @@ export default defineConfig({
     },
     externalLinkIcon: true,
     cleanUrls: true,
-    head: [
-      ['script', { src: 'https://cdn.userway.org/widget.js', 'data-account': 'B0I6yz9cSR' }],
-      ['script', { src: 'https://code.jquery.com/jquery-3.4.1.min.js' }],
-      ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
-      ['link', { rel: 'icon', sizes: '32x32', type: 'image/png', href: '/favicon-32x32.png' }],
-      ['link', { rel: 'icon', sizes: '16x16', type: 'image/png', href: '/favicon-16x16.png' }],
-      ['link', { rel: 'manifest', href: '/site.webmanifest' }],
-      ['link', { rel: 'mask-icon', href: '/safari-pinned-tab.svg', color: '#5bbad5' }],
-      ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }],
-      ['meta', { name: 'theme-color', content: '#ffffff' }],
-    ],
-
     // head: [
     //   ['link', { rel: 'icon', type: 'image/svg+xml', href: '/vitepress-logo-mini.svg' }],
     //   ['link', { rel: 'icon', type: 'image/png', href: '/vitepress-logo-mini.png' }],
