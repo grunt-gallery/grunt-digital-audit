@@ -6,8 +6,7 @@ export default defineConfig({
   vite: { plugins: [SearchPlugin()] },
   title: "grunt DNA",
   description: "An assessment of grunt's digital footprint, 2024 (ongoing)",
-  base: '/grunt-digital-audit/',
-  // digital-audit.grunt.ca
+  // base: '/grunt-digital-audit/',
   srcExclude: ['**/README.md', '**/TODO.md'],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

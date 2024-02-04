@@ -14,11 +14,12 @@ There are three main steps to archiving websites.
 ::: info
 #### Steps to archiving aging websites:
 1. Isolate and preserve the website source files<br>
-2. Make source the files accessible (optional)<br>
-3. Share the websites using a consistent method in browser-readable format
+2. Make the source the files accessible (optional)<br>
+3. Share the websites using a consistent method in a browser-readable format
 :::
-
-In the following sections different strategies for preserving and/or archiving legacy websites and the steps are described.
+::: tip
+The following sections describe different strategies and trade-offs for preserving and/or archiving legacy websites.
+:::
 
 ## Preserve Website Source Files
 
