@@ -1,3 +1,6 @@
+---
+outline: deep
+---
 # Accessibility
 
 <a href="https://www.w3.org/WAI/WCAG2AA-Conformance" title="Explanation of WCAG 2 Level AA conformance" ><img height="32" width="88" src="https://www.w3.org/WAI/WCAG21/wcag2.1AA-v" alt="Level AA conformance, W3C WAI Web Content Accessibility Guidelines 2.1"></a>

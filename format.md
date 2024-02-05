@@ -1,3 +1,6 @@
+---
+outline: deep
+---
 # Format
 
 The deliverable format for this report is a git repository. 
@@ -18,7 +21,7 @@ The content of this report is written in [Markdown](https://en.wikipedia.org/wik
 
 This report can be accessed through a web browser. 
 
-The source code for making the report can be accessed as [files](https://github.com/grunt-gallery/grunt-digital-audit), and the presentation of those files as HTML can be accessed as a [website](https://grunt-gallery.github.io/grunt-digital-audit/).
+The source code for making the report can be accessed as [files](https://github.com/grunt-gallery/grunt-digital-audit), and the presentation of those files as HTML can be accessed as a [website](https://digital-audit.grunt.ca).
 
 This report is intended to be a "[living document](https://en.wikipedia.org/wiki/Living_document)" that can change over time.
 

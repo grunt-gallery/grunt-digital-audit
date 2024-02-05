@@ -1,8 +1,6 @@
-<style>
-.indent-list {
-    margin-left: 2em;
-}
-</style>
+---
+outline: deep
+---
 # Legacy Website Strategy
 
 Following the website inventory it is evident that grunt has a number of special project websites which are no longer active and are at risk of being broken through routine web server upgrades. 
@@ -14,14 +12,14 @@ There are three main steps to archiving websites.
 ::: info
 #### Steps to archiving aging websites:
 1. Isolate and preserve the website source files<br>
-2. Make the source the files accessible (optional)<br>
+2. Make the source the files accessible <br>
 3. Share the websites using a consistent method in a browser-readable format
 :::
 ::: tip
 The following sections describe different strategies and trade-offs for preserving and/or archiving legacy websites.
 :::
 
-## Preserve Website Source Files
+## 1. Preserve Website Source Files
 
 ![A screenshot of a computer disk icon](/save_file.png "A screenshot of a computer disk icon")
 
@@ -35,7 +33,7 @@ With the files saved offline the site itself is not operational, but the files a
 Properly preserving the website's source files is a requirement for any kind of website sharing.
 :::
 
-## Make Website Source Files Accessible
+## 2. Make Website Source Files Accessible
 
 
 ![A screenshot of grunt's GitHub account homepage](/grunt_github.png "A screenshot of grunt's GitHub account homepage")
@@ -48,7 +46,7 @@ If the principles of open source software sharing are important to the organisat
 If a web developer received files in this way they could activate them more quickly/easily.
 :::
 
-## Convert Dynamic Websites to Static Sites
+### Convert Dynamic Websites to Static Sites
 
 ![The WordPress Logo on the left, HTML 5 Logo on the right](/wp_html.png "The WordPress Logo on the left, HTML 5 Logo on the right")
 
@@ -62,7 +60,7 @@ Converting a dynamic database-driven website into a static site will lose some o
 There may be an administrative cost to the organisation to make dynamic sites into static sites, unless there is a plugin or process that can automate the task.
 :::
 
-## Convert Dynamic Websites into .WARC files
+### Convert Dynamic Websites into .WARC files
 
 ![A screenshot of the conifer homepage](/conifer.png "A screenshot of the conifer homepage")
 
@@ -76,7 +74,7 @@ Every time you browse a website on the "[wayback machine](https://archive.org/we
 The origin of .WARC files is connected to the arts and in particular new media art, which may support a future narrative in grant funding applications.
 :::
 
-## Possible ways to share archived websites
+## 3. Ways to Share Legacy Websites
 
 ### Static HTML on web and/or localhost
 
@@ -117,3 +115,5 @@ Using Docker containers to host websites essentially re-establishes the websites
 ::: danger
 Setting up a "Dockerized" environment likely has the most significant development cost of all options.
 :::
+
+## Summary

@@ -18,11 +18,11 @@ features:
   - icon: 🖼️
     title: Exhibitions & Programming
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 📚
+    title: Access & Archive
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon: 🤲
     title: Outreach & Community
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - icon: 📚
-    title: Archives & Access
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

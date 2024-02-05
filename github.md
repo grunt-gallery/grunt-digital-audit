@@ -1,4 +1,9 @@
+---
+outline: deep
+---
 # GitHub
+
+![A screenshot of the GitHub landing page](/github.png "A screenshot of the GitHub landing page")
 
 [Github](https://github.com/) is a free online platform that allows developers to create, store, and manage their code using git. 
 

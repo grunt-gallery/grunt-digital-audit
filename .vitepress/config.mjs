@@ -53,9 +53,10 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Introduction', link: '/introduction' },
+          { text: 'Writing Style', link: '/writing-style' },
+          { text: 'Accessibility', link: '/accessibility' },
           { text: 'Format', link: '/format' },
           { text: 'GitHub', link: '/github' },
-          { text: 'Accessibility', link: '/accessibility' },
         ]
       },
       {
@@ -63,7 +64,19 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'grunt.ca', link: '/grunt-ca' },
-          { text: 'Mount Pleasant Community Art Screen', link: '/mpcas' },
+          { text: 'mpcas.ca', link: '/mpcas' },
+          { text: 'archives.grunt.ca', link: '/grunt-archives' },
+        ]
+      },
+      {
+        text: 'Access and Archive',
+        collapsed: false,
+        items: [
+          { text: 'Legacy Website Strategy', link: '/legacy-website-strategy' },
+          { text: 'Website Inventory', link: 'website-inventory' },
+          { text: 'Website Naming', link: 'website-naming' },
+          { text: 'archives.grunt.ca', link: 'archives-grunt-ca' },
+          { text: 'Backups', link: '/backups' },
         ]
       },
       {
@@ -72,16 +85,6 @@ export default defineConfig({
         items: [
           { text: 'Outreach', link: '/outreach' },
           { text: 'Social Media', link: '/social-media' },
-        ]
-      },
-      {
-        text: 'Archives & Access',
-        collapsed: false,
-        items: [
-          { text: 'archives.grunt.ca', link: 'archives-grunt-ca' },
-          { text: 'Website Inventory', link: 'website-inventory' },
-          { text: 'Backups', link: '/backups' },
-          { text: 'Legacy Website Strategy', link: '/legacy-website-strategy' },
         ]
       },
       { text: 'Conclusion', link: '/conclusion' }

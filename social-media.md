@@ -1,3 +1,6 @@
+---
+outline: deep
+---
 # Social Media
 
 lorem
