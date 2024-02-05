@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "grunt"
-  text: "Digital Needs Assessment"
-  tagline: An assessment of <br>grunt's digital footprint, 2024–
+  text: "Digital Audit"
+  tagline: An audit of <br>grunt's digital footprint, 2024–
   actions:
     - theme: brand
       text: Get Started 

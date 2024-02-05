@@ -64,6 +64,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Web Servers', link: '/web-servers' },
+          { text: 'Website Naming', link: 'website-naming' },
           { text: 'grunt.ca', link: '/grunt-ca' },
           { text: 'mpcas.ca', link: '/mpcas' },
           { text: 'archives.grunt.ca', link: '/grunt-archives' },
@@ -74,8 +75,6 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Legacy Website Strategy', link: '/legacy-website-strategy' },
-          { text: 'Website Inventory', link: 'website-inventory' },
-          { text: 'Website Naming', link: 'website-naming' },
           { text: 'archives.grunt.ca', link: 'archives-grunt-ca' },
           { text: 'Backups', link: '/backups' },
         ]
