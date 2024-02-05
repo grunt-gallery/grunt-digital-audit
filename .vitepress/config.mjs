@@ -63,6 +63,7 @@ export default defineConfig({
         text: 'Exhibitions & Programming',
         collapsed: false,
         items: [
+          { text: 'Web Servers', link: '/web-servers' },
           { text: 'grunt.ca', link: '/grunt-ca' },
           { text: 'mpcas.ca', link: '/mpcas' },
           { text: 'archives.grunt.ca', link: '/grunt-archives' },

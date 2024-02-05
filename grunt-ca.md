@@ -12,6 +12,28 @@ In 2022 the author of this report was asked to improve the [grunt.ca](https://gr
 
 The site was then put into a git repository and uploaded to [GitHub](https://github.com/grunt-gallery/grunt-wordpress-theme).
 
+## Results
+
+::: info
+This is an info box.
+:::
+
+::: tip
+This is a tip.
+:::
+
+::: warning
+This is a warning.
+:::
+
+::: danger
+This is a dangerous warning.
+:::
+
+::: details
+This is a details block.
+:::
+
 ### grunt.ca Tech Doc
 
 - WordPress version 6.2.3 (current version is 6.4.2)
