@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   vite: { plugins: [SearchPlugin()] },
-  title: "grunt DNA",
+  title: "grunt Digital Audit",
   description: "An assessment of grunt's digital footprint, 2024 (ongoing)",
   // base: '/grunt-digital-audit/',
   head: [
