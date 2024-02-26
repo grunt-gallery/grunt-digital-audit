@@ -67,7 +67,6 @@ export default defineConfig({
           { text: 'Website Naming', link: 'website-naming' },
           { text: 'grunt.ca', link: '/grunt-ca' },
           { text: 'mpcas.ca', link: '/mpcas' },
-          { text: 'archives.grunt.ca', link: '/grunt-archives' },
         ]
       },
       {

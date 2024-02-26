@@ -3,20 +3,20 @@ outline: deep
 ---
 # Web Servers
 
-grunt uses [DreamHost](https://www.dreamhost.com/) Shared Web Hosting for primary hosting and [Whirl-i-gig](https://www.collectiveaccess.org/services/) for hosting the archive site.
+grunt uses [DreamHost](https://www.dreamhost.com/) for hosting grunt.ca and various project websites, and [Whirl-i-gig](https://www.collectiveaccess.org/services/) for hosting the archive site.
 
 Many of grunt's websites use [WordPress](https://wordpress.org/) as a CMS, while the [archive site](https://archives.grunt.ca/) uses [CollectiveAccess](https://www.collectiveaccess.org/) as a CMS.
 
-## Web Hardware
+## grunt's Web Hardware
 
 ::: info
-### Shared Hosting
+### 1. Shared Hosting
 
 Shared hosting allows multiple websites to use or "share" a single server. Users of shared hosting services do not know what other websites the resources are shared with. Each user has a limit on the amount of server resources they can use.
 
 Shared hosting is the cheapest hosting option because it comes with certain limitations.
 
-### Cloud Hosting
+### 2. Cloud Hosting
 
 Cloud hosting pools computing resources from a network of virtual and physical servers, which allows for scalability and flexibility in arranging computing resources. Cloud hosting is pay-as-you-go which means computing resources can be added, increased, or scaled back as-needed.
 
@@ -24,13 +24,13 @@ Cloud hosting pools computing resources from a network of virtual and physical s
 
 ### grunt's Server Mix
 
-grunt uses shared hosting with DreamHost and a cloud hosting subscription that is managed by Whirl-i-gig (CollectiveAccess).
+grunt uses Shared Hosting with DreamHost and professionally-managed Cloud Hosting (Whirl-i-gig) for the archive site.
 
 ## Web Maintenance
 
-Maintenance of the servers is important. For the archive servers, Whirl-i-gig handles updates and maintenance as part of the hosting package. They also do nightly backups of the data on the CollectiveAccess installation.
+Maintenance of the web servers is important.
 
-DreamHost shared hosting requires maintenance, especially as DreamHost limits PHP versions to current versions only, which makes legacy websites break.
+DreamHost Shared Hosting requires regular maintenance because DreamHost limits the PHP versions available to customers to current versions only— which means that any legacy websites break.
 
 DreamHost does this in order to charge extra for hosting legacy websites, currently ~$5 USD extra per website per month.
 
@@ -38,7 +38,10 @@ The cost of keeping a legacy websites online can be estimated by calculating the
 
 These costs can also be used when evaluating whether a website is to be hosted online or archived.
 
-## Website Inventory
+Whirl-i-gig Cloud Servers are professionally managed and they handle updates and maintenance as part of the hosting package. They also do nightly backups of the data on the CollectiveAccess installation to their server.
+
+
+## grunt's Website Inventory
 
 |    Domain Name     | Registration Date | Web Server | PHP Version | # of Emails |
 | :---------------- | :--------------- | :--------: | :---------: | :---------: |
@@ -50,7 +53,7 @@ These costs can also be used when evaluating whether a website is to be hosted o
 | [bruntmag.com](https://bruntmag.com) | 2024-05-12 | page | 8.1 | 3 |
 | [callresponse.net](https://callresponse.net) | Not available | page | Not Available | 0 |
 | [callresponseart.ca](https://callresponseart.ca) | 2025-01-10 | page | 8.1 | 0 |
-| [canyouseebeaver.ca](https://canyouseebeaver.ca) | 2025-01-28 | page | Not available | 0 |
+| [canyouseebeaver.ca](https://canyouseebeaver.ca) | 2025-01-28 | WIX | Not available | 0 |
 | [conundrumonline.org](https://conundrumonline.org) | Not available | page | 8.1 | 0 |
 | [danaclaxton.com](https://danaclaxton.com) | 2024-03-14 | Not available | Not available | Not available |
 | [drumbytes.org](https://drumbytes.org) | Not available | page | 8.1 | 0 |
