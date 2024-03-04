@@ -3,13 +3,15 @@ outline: deep
 ---
 # Writing Style
 
-This report uses a social language writing style. As grunt sits at the intersection of the academic world, the fine arts community, and the public, it is best to consider the audience with the most challenges and centre them when building methods of access for digital projects. 
+While universal access is not possible, it is a goal. This report uses a non-academic writing style that aims for a grade 10/11 reading level. A grade 9 reading level is the recommended reading level when writing content for the web.
 
-While universal access is not possible, it is always the goal. This report aims for a grade 10/11 reading level and 60% on the Flesch Reading Ease to strike a balance between accessible and professional. A grade 9 reading level is the recommended reading level when writing content for the web.
+All pages of this report have been passed through [Readable.com](https://readable.com/features/#readability) and [Grammarly](https://www.grammarly.com/) to improve readability and access.
 
-All pages of this report have been passed through [Readable.com](https://readable.com/) and [Grammarly](https://www.grammarly.com/) to improve readability and access.
+Translating contemporary art and concepts into writing sometimes requires abstract and complex language. This report presents an opportunity for decision-makers to consider who they are speaking to and who is their primary audience. 
 
-Translating contemporary art and concepts into writing requires abstract and complex language. This report presents an opportunity for decision-makers to consider who they are speaking to and who is their primary audience. Formal style guides will promote better communication with primary audiences and create a resource for staff to keep writing consistent.
+Having a formal style guide will promote better communication with primary audiences and create a resource for staff, to keep writing consistent. A style guide such as this could be published and made public, so that audience communities can understand grunt's objectives as such a guide would be sure to and change over time. 
+
+While most free online style guide resources will reference "brand" and "brand message", these words are essentially synonomous with "organisation" and "organisational values".
 
 <!-- ::: info
 #### Example of academic language in a report:

@@ -3,18 +3,19 @@ outline: deep
 ---
 # Legacy Website Strategy
 
-After completing the website inventory, it is evident that grunt has a number of project websites which are no longer active and/or are at risk of being broken through routine web server upgrades. 
+After completing the [website inventory](https://digital-audit.grunt.ca/web-servers.html#grunt-s-website-inventory), it is clear that grunt has a number of project websites which are no longer active and/or are at risk of being broken through routine web server upgrades enforced by DreamHost. 
 
 These project websites are candidates to be archived and/or preserved so that they do not get lost or broken from future web server updates. 
 
 There are three main steps to archiving websites.
 
 ::: info
-#### What are the steps to archiving aging websites?
-1. Isolate and preserve the website source files<br>
-2. Make the source the files accessible <br>
-3. Share the websites using a consistent method in a browser-readable format
+#### What are the steps to archiving an aging website?
+1. Isolate and preserve the website's source files<br>
+2. Make the website's source files accessible (optional)<br>
+3. Share the website using a consistent browser-readable format
 :::
+
 ::: tip
 The following sections describe different strategies and trade-offs for preserving and/or archiving legacy websites.
 :::
@@ -23,11 +24,13 @@ The following sections describe different strategies and trade-offs for preservi
 
 This is the most low-barrier preservation task—to isolate the files that compose grunt's websites and save them outside of the web server environment, with developer's notes as to which technologies are needed for the sites to operate in their original state. 
 
-For example, a WordPress website made in 2012 requres plugins which are no longer active and it requires WordPress and PHP versions that are no longer current and supported by the public-facing web server. These details can be recorded in a "README" file at the root directory with the website's files. The files can then be saved offline and in duplicate for safe keeping. At a later date these files can be recalled and activated in a web server environment that can support the website's technologies.
+For example, a WordPress website made in 2012 requres plugins which are no longer supported. The site requires WordPress and PHP versions that are no longer current or supported by the public-facing web server. These details can be recorded in a "README" file in the root directory of the project with the website's source files. The files can then be saved offline and in duplicate for safe keeping. At a later date these files can be recalled and activated in a web server environment that can support the website's technologies.
 
-With the files saved offline the site itself is not operational, but the files are secured for future use.
+With the files saved offline the site itself is not operational, but the files are secure for future use.
 
-The best place to store these files is on [grunt's GitHub account](https://github.com/grunt-gallery) because the code can be backed-up, edited, and used for future development purposes. Alternatively, the files could also be saved to disk and stored on a server or hard drives.
+Best practice for storing website source files is on [grunt's GitHub account](https://github.com/grunt-gallery), because the code can be backed-up, edited, and used for future development purposes. 
+
+Alternatively, the files could also be saved to disk and stored on a server or offline hard drives.
 
 ::: info
 Properly preserving the website's source files is a requirement for any kind of website sharing.
@@ -40,7 +43,7 @@ The source files for making the website could be hosted on grunt's GitHub accoun
 ::: info
 Sharing website source files is an administrative "nice to have". <br><br>
 If the principles of open source software sharing are important to the organisation, then this might be a more important step.<br><br>
-If a web developer received files in this way they could activate them more quickly/easily.
+If a web developer received files in this way they could activate them more quickly and easily.
 :::
 
 ### Convert Dynamic Websites to Static Sites
@@ -101,7 +104,8 @@ Preserving the archived websites in a containerized dynamic server environment w
 Containerized websites can be shared locally (onsite at grunt) or on the web (for an additional web hosting service fee). A service **other than Dreamhost** would be needed, which would incur an additional fee. Sharing the website locally at grunt would be of no cost, but it would require a server or computer to be run on.
 
 ::: info
-Using Docker containers to host websites essentially re-establishes the websites as they were originally built. <br><br>This is the most high-fidelity method to preserve websites and their content. 
+Using Docker containers to host websites essentially re-establishes the websites as they were originally built. <br><br>This is possibly the most high-fidelity method to preserve websites and their content. 
+Docker containers can run locally or be put back online through a custom server environment
 :::
 ::: danger
 Setting up a "Dockerized" environment likely has the most significant development cost of all options.
@@ -109,10 +113,10 @@ Setting up a "Dockerized" environment likely has the most significant developmen
 
 ## Summary
 
-grunt's legacy website strategy should attempt to preserve the code of the websites as well as the content contained in the code. 
+grunt's legacy website strategy should attempt to preserve the code of the websites *and* the content of the websites. 
 
-This report recommends using grunt's GitHub account as a repository for storing legacy website code, which can then be archived and/or activated in different ways.
+This report recommends using grunt's GitHub account as a repository for storing legacy website code, which can then be archived and/or activated in multiple different ways, described above.
 
-Saving legacy websites .WARC files is an interesting approach if grunt can support playback of those files for researchers and site visitors. 
+Saving legacy websites as .WARC files is an interesting approach if grunt can support playback of .WARC files for researchers. 
 
-Docker images could be made to preserve the sites in their original form, however this would require the most development time and potential expense.
+Docker images could be made to preserve the websites in their original form, however this would require the most development time and potential expense.

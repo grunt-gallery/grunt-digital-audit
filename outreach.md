@@ -3,7 +3,7 @@ outline: deep
 ---
 # Outreach
 
-What it is, how it is used
+Digital outreach is an important component of grunt's pubic-facing digital presence. Audience habits towa
 
 ## Web-based Delivery
 

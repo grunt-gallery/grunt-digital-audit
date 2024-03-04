@@ -3,7 +3,9 @@ outline: deep
 ---
 # Web Servers
 
-grunt uses [DreamHost](https://www.dreamhost.com/) for hosting grunt.ca and various project websites, and [Whirl-i-gig](https://www.collectiveaccess.org/services/) for hosting the archive site.
+grunt primarily uses [DreamHost](https://www.dreamhost.com/) for hosting grunt.ca and various other project websites. 
+
+[Whirl-i-gig](https://www.collectiveaccess.org/services/) hosts the archive site in a flexible and custom-built cloud environment.
 
 Many of grunt's websites use [WordPress](https://wordpress.org/) as a CMS, while the [archive site](https://archives.grunt.ca/) uses [CollectiveAccess](https://www.collectiveaccess.org/) as a CMS.
 
@@ -34,11 +36,11 @@ DreamHost Shared Hosting requires regular maintenance because DreamHost limits t
 
 DreamHost does this in order to charge extra for hosting legacy websites, currently ~$5 USD extra per website per month.
 
-The cost of keeping a legacy websites online can be estimated by calculating the cost of upgrading the site to a current PHP version ($X software developer cost) vs. ~$5 USD per month x the # of months of the site's useful life.
+The cost of keeping a legacy website online can be estimated by calculating the cost of upgrading the site to a current PHP version ($X development cost) vs. ~$5 USD per month x the # of months of the site's useful life.
 
-These costs can also be used when evaluating whether a website is to be hosted online or archived.
+These costs can also be used to evaluate whether or not a website is to be hosted online or archived.
 
-Whirl-i-gig Cloud Servers are professionally managed and they handle updates and maintenance as part of the hosting package. They also do nightly backups of the data on the CollectiveAccess installation to their server.
+Whirl-i-gig Cloud Servers are professionally managed with updates and maintenance included as part of the hosting package. Whirl-i-gig does nightly backups of the data on the CollectiveAccess installation *to their server*.
 
 
 ## grunt's Website Inventory

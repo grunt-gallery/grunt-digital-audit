@@ -5,13 +5,13 @@ outline: deep
 
 The deliverable format for this report is a git repository. 
 
-[Git](https://git-scm.com/) is a distributed version control system for the management of computer files. Git tracks changes that are made to files so as to coordinate the work of contributors who are working collaboratively. 
+[Git](https://git-scm.com/) is a distributed version control system for the management of computer files. Git tracks changes that are made to files so as to coordinate the work of multiple contributors working collaboratively. 
 
-A [git repository](https://www.gitkraken.com/learn/git/tutorials/what-is-a-git-repository) is a folder of computer files that is managed by git, so that multiple contributors can access and make changes to the files in a way that is structured, traceable, and secure.
+A [git repository](https://www.gitkraken.com/learn/git/tutorials/what-is-a-git-repository) is a folder of computer files managed by git, such that multiple contributors can access and make changes to files without overwriting one another.
 
-Although there is only one author of this report, the idea behind the report is to put into place collaborative working methods that can expand over time to give proper credit to all those who choose contribute to grunt's digital tools.
+Although there is only one author to this report, the idea behind it is to put into place collaborative working methods which can expand over time to allow for multiple contributors.
 
-There are also many past contributors to grunt's public-facing digital tools who are only partially acknowledged through comments made to the code base—which are not accessible. Recognizing the work of contributors through explicit mentions, linking, and commits better-rewards the contributors to grunt's digital ecosystem.
+There are many past contributors to grunt's public-facing digital assets who are only partially acknowledged through code comments—which are not easily accessible. Recognizing the work of contributors through mentions, links, and commit history better-rewards the contributions made to grunt's digital ecosystem.
 
 Git is offered under the [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License) — a free and open-source software license — and works on all major computer operating systems.
 
@@ -21,18 +21,18 @@ The content of this report is written in [Markdown](https://en.wikipedia.org/wik
 
 ## Web-based Delivery
 
-This report is accessed through a web browser. 
+This report is accessed through the web browser. 
 
-The source code for the report can be found [here](https://github.com/grunt-gallery/grunt-digital-audit), and the browser-interpreted presentation of that code can be accessed [here](https://digital-audit.grunt.ca).
+The source code for the report can be found [here](https://github.com/grunt-gallery/grunt-digital-audit).
 
 This report is intended to be a "[living document](https://en.wikipedia.org/wiki/Living_document)" that can change over time.
 
 This report is digital, so that it can be easily accessed, edited, and contributed to.
 
-This report has permalink section headings so that sections of the report can be easily referenced in online discussions and in funding reports. It is often helpful to direct someone to the information you want them to have without searching through many pages of a .PDF report.
+This report has permalink section headings so that sections of the report can be easily referenced in discussions and funding reports—it is often helpful to direct someone to the information you want them to have without asking them to search through pages in a .PDF report.
 
 ### How to use permalink section headings
-If you click the "#" icon that appears when you hover any section heading in this report, you can copy the address in the URL bar that references that heading.
+If you click the "#" icon that appears when you hover any section heading in this report, you can copy the address in the URL bar to directly reference that heading.
 
 ![Alt text](/digital_response.gif "Example of making a permalink from heading content")
 
