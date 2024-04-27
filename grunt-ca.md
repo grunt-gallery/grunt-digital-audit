@@ -26,12 +26,12 @@ The site now has a git repository and is uploaded to [GitHub](https://github.com
 :::
 
 ::: tip
-#### grunt.ca Website Needs:
+#### grunt.ca Website Suggested Improvements:
 
-- An image gallery
-- Dropdown menu is clunky and not mobile-friendly
-- Stylistic consistency is lacking (visual, code-writing, accessibility)
-- Prominent display of accessibility details for the physical grunt gallery location is lacking
+- An image gallery (or a link to where documentation images of exhibitions can be found)
+- Dropdown menu improvement (currently clunky and not mobile-friendly)
+- Written stylistic consistency improvements  (visual, code-writing, accessibility)
+- Improve display of accessibility details for the physical grunt gallery location
 - Links to Big Cartel web shop [gruntgallery.bigcartel.com](https://gruntgallery.bigcartel.com/) could use a subdomain naming strategy (i.e. shop.grunt.ca)
 - There are vulnerable plugins and website security needs to be improved
 :::
@@ -57,6 +57,8 @@ That being said, there are numerous methods for building websites that were not 
 Static-generated websites are only the "[frontend](https://www.w3schools.com/howto/howto_blog_become_frontenddev.asp)" — or what we, as webs users, interact with. To manage content on the backend, a CMS is still required.
 
 If a rebuild of the grunt.ca website is up for discussion, one option that may be cost-effective is to use continue using WordPress as a backend CMS and then develop a new frontend site that pulls existing data from a WordPress backend. This is called a [headless WordPress setup](https://www.gatsbyjs.com/docs/glossary/headless-wordpress/#:~:text=A%20headless%20WordPress%20site%20is,content%20to%20a%20site%20visitor.).
+
+If the current grunt.ca WordPress site was replicated as a static site with a WordPress backend, this would improve accessibility and decrease page load times, making the site more extensible in the future.
 
 ### Online and IRL Sales
 

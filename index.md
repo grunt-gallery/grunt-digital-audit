@@ -17,13 +17,13 @@ hero:
 features:
   - icon: 🖼️
     title: Exhibitions & Programming
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: How digital applies to grunt's primary activites
   - icon: 📚
     title: Access & Archive
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Different ways to access and archive grunt's programming
   - icon: 🤲
     title: Outreach & Community
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Using digital to improve outreach and build grunt's community
 ---
 
 <style>
