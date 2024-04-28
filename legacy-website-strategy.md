@@ -3,7 +3,7 @@ outline: deep
 ---
 # Legacy Website Strategy
 
-After completing the [website inventory](https://digital-audit.grunt.ca/web-servers.html#grunt-s-website-inventory), it is clear that grunt has a number of project websites which are no longer active and/or are at risk of being broken through routine web server upgrades enforced by DreamHost. 
+After completing the [website inventory](https://digital-audit.grunt.ca/web-servers.html#grunt-s-website-inventory), it is clear that grunt has a number of project websites that are no longer active and/or are at risk of being broken through routine web server upgrades enforced by DreamHost. 
 
 These project websites are candidates to be archived and/or preserved so that they do not get lost or broken from future web server updates. 
 
@@ -85,10 +85,10 @@ Some dynamic website functionality will be lost when converting into a static si
 
 ### .WARC Files on web and/or localhost
 
-.WARC files are great because they are in a recognized web archiving format that may appeal to archivists and/or researchers. The methods for creating and viewing .WARC files are in-step with digital archiving best practices, however some dynamic functionality of websites is lost through the process—such as filter data retrevial or site search functions. For this reason, .WARC files are closer to static sites than dynamic websites.
+.WARC files are great because they are in a recognized web archiving format that may appeal to archivists and/or researchers. The methods for creating and viewing .WARC files are in step with digital archiving best practices, however, some dynamic functionality of websites is lost through the process—such as filter data retrieval or site search functions. For this reason, .WARC files are closer to static sites than dynamic websites.
 
 ::: info
-.WARC files need to be accessed through special software and so they are more easy to access when they are offline. If you want to make resources available for researchers doing research requests, this might be the way to go. <br><br>
+.WARC files need to be accessed through special software and so they are easier to access when they are offline. If you want to make resources available for researchers doing research requests, this might be the way to go. <br><br>
 There are [web-based .WARC file viewers](https://conifer.rhizome.org/_faq). <br><br>These file viewers require you to upload your .WARC files to outside servers, which means [losing the exclusive copyright](https://conifer.rhizome.org/_policies) over the content of the file(s).
 :::
 ::: danger
@@ -99,7 +99,7 @@ Viewing .WARC files with a third-party online service may come at the expense of
 
 Preserving the archived websites in a containerized dynamic server environment will preserve the website functionality of the sites—essentially nothing is changed from the original website installation.
 
-[Docker](https://www.docker.com/) is a containarization service that allows for computing resources to be isolated to installation settings. For example, one could specifiy that whenever a Docker container is run, that it load up the correct version of MYSQL, PHP and other requrired services at the correct version numbers alonside the source files of the website. This essentailly preserves the website in the state that it was originally created, and it pulls in the necessary resources every time the Docker container is run.
+[Docker](https://www.docker.com/) is a containarization service that allows for computing resources to be isolated to installation settings. For example, one could specify that whenever a Docker container is run, load up the correct version of MYSQL, PHP and other required services at the correct version numbers alongside the source files of the website. This essentially preserves the website in the state that it was originally created, and it pulls in the necessary resources every time the Docker container is run.
 
 Containerized websites can be shared locally (onsite at grunt) or on the web (for an additional web hosting service fee). A service **other than Dreamhost** would be needed, which would incur an additional fee. Sharing the website locally at grunt would be of no cost, but it would require a server or computer to be run on.
 
@@ -115,8 +115,8 @@ Setting up a "Dockerized" environment likely has the most significant developmen
 
 grunt's legacy website strategy should attempt to preserve the code of the websites *and* the content of the websites. 
 
-This report recommends using grunt's GitHub account as a repository for storing legacy website code, which can then be archived and/or activated in multiple different ways, described above.
+This report recommends using grunt's GitHub account as a repository for storing legacy website code, which can then be archived and/or activated in multiple different ways, as described above.
 
 Saving legacy websites as .WARC files is an interesting approach if grunt can support playback of .WARC files for researchers. 
 
-Docker images could be made to preserve the websites in their original form, however this would require the most development time and potential expense.
+Docker images could be made to preserve the websites in their original form, however, this would require the most development time and potential expense.

@@ -3,7 +3,7 @@ outline: deep
 ---
 # Introduction
 
-In 2023, grunt engaged two external consultants to review their digital landscape and processes. One consultant focused on measuring the accessibility of grunt's online presence while the other considered methods for archiving, maintaining and further developing grunt's public-facing digital infrastructure. The goal for both reports was to identify risks and opportunities for growth and community engagement amongst grunt's audiences. 
+In 2023, grunt engaged two external consultants to review their digital landscape and processes. One consultant focused on measuring the accessibility of grunt's online presence while the other considered methods for archiving, maintaining, and further developing grunt's public-facing digital infrastructure. The goal for both reports was to identify risks and opportunities for growth and community engagement amongst grunt's audiences. 
 
 This assessment focuses on the latter— maintaining and further developing grunt's public-facing digital infrastructure. The work in this area is ongoing and the planning needed to do this work will constantly shift as technology develops and as grunt's audiences change. 
 

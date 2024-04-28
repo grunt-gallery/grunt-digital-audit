@@ -14,18 +14,18 @@ Below are some initial impressions of the site:
 
 - The video that plays on the landing page does not give context to what the project is or where it is located—apart from the name "Mount Pleasant" in the video title—but one would need to be familiar with Vancouver to understand that Mount Pleasant is a neighbourhod in Vancouver.
 
-- The screening schedule is not accurate (this was tested by going to the screen at the time a work supposed to be played on the screen, but it was not being played).
+- The screening schedule is not accurate (this was tested by going to the screen at the time a work was supposed to be played on the screen, but it was not being played).
 
 - The [past works page](https://www.mpcas.ca/past-works/) only displays some of the past works. 
 - Artist pages are not easily found or organised according to artist *and* artist work.
 
-- There is a [standalone app that pulls data directly from the screen player](https://www.files.mpcas.ca/) located at the site of the digital screen, but requests from the app's URL are consistenly blocked by [incorrect CORS permissions](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)—which causes the app to break. The app is also not publicly advertised or linked-to from anywhere, so nobody really knows that it exists anyways.
+- There is a [standalone app that pulls data directly from the screen player](https://www.files.mpcas.ca/) located at the site of the digital screen, but requests from the app's URL are consistently blocked by [incorrect CORS permissions](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)—which causes the app to break. The app is also not publicly advertised or linked-to from anywhere, so nobody really knows that it exists anyway.
 
-- Acknowledgements to the project funders is not located in the footer of the site (on *all* pages). Goodwill for funding and managing the digital screen is being lost because of poor recognition and logo placement.
+- Acknowledgements to the project funders are not located in the footer of the site (on *all* pages). Goodwill for funding and managing the digital screen is being lost because of poor recognition and logo placement.
 
 ## Discussion
 
-- This website could use [subdomain naming](https://digital-audit.grunt.ca/website-naming.html#website-naming) to be better-linked to grunt and the project funding partners. 
+- This website could use [subdomain naming](https://digital-audit.grunt.ca/website-naming.html#website-naming) to be better linked to grunt and the project funding partners. 
   
 - [Search Engine Optimization](https://en.wikipedia.org/wiki/Search_engine_optimization) and page-linking on the MPCAS site could be vastly improved.
 
@@ -39,6 +39,6 @@ Below are some initial impressions of the site:
 
 - The video on the landing screen could be removed or made relevant to the project.
 
-- The programming of MPCAS could be brought-in to the grunt.ca website in somehow, to showcase it to the grunt.ca audience. 
+- The programming of MPCAS could be brought to the grunt.ca website somehow, to showcase it to the grunt.ca audience. 
 
-- The goodwill for managing MPCAS and the MPCAS website could be better-captured by grunt.
+- The goodwill for managing MPCAS and the MPCAS website could be better captured by grunt.

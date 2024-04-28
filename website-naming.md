@@ -2,8 +2,7 @@
 outline: deep
 ---
 # Website Naming
-
-grunt currenly uses many unique website names that all require registration and payment for upkeep.
+grunt currently uses many unique website names that all require registration and payment for upkeep.
 
 While this web-naming practice gives uniqueness to a project, it adds financial, administrative, and possibly technical burdens to grunt.
 
@@ -26,4 +25,4 @@ Different permissions can be made to subdomains for security and to allow for ad
 
 You can make as many subdomains as you want without incurring additional charges.
 
-An additional benefit to the subdomain naming structure is that all subdomains will semantically reference the grunt.ca website and grunt as being the manager of the website.
+An additional benefit to the subdomain naming structure is that all subdomains will semantically reference the grunt.ca website and grunt as the manager of the website.

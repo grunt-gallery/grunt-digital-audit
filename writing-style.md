@@ -9,9 +9,9 @@ All pages of this report have been passed through [Readable.com](https://readabl
 
 Translating contemporary art and concepts into writing sometimes requires abstract and complex language. This report presents an opportunity for decision-makers to consider who they are speaking to and who is their primary audience. 
 
-Having a formal style guide will promote better communication with primary audiences and create a resource for staff, to keep writing consistent. A style guide such as this could be published and made public, so that audience communities can understand grunt's objectives as such a guide would be sure to and change over time. 
+Having a formal style guide will promote better communication with primary audiences and create a resource for staff, to keep writing consistent. A style guide such as this could be published and made public so that audience communities can understand grunt's objectives as such a guide would be sure to change over time. 
 
-While most free online style guide resources will reference "brand" and "brand message", these words are essentially synonomous with "organisation" and "organisational values".
+While most free online style guide resources will reference "brand" and "brand message", these words are essentially synonymous with "organisation" and "organisational values".
 
 <!-- ::: info
 #### Example of academic language in a report:
