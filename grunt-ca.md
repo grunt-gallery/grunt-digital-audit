@@ -58,6 +58,10 @@ Static-generated websites are only the "[frontend](https://www.w3schools.com/how
 
 If a rebuild of the grunt.ca website is up for discussion, one option that may be cost-effective is to continue using WordPress as a backend CMS and then develop a new frontend site that pulls existing data from a WordPress backend. This is called a [headless WordPress setup](https://www.gatsbyjs.com/docs/glossary/headless-wordpress/#:~:text=A%20headless%20WordPress%20site%20is,content%20to%20a%20site%20visitor.).
 
+::: tip
+Although Accessibility is being considered as a parallel report, it might be interesting to consider what screen readers can see visually when reading the site. A simple HTML toggle button could remove all non-text visual components from teh website, to give a visual representation of what a screen reader is actually using to turn text to speech. :::
+
+
 If the current grunt.ca WordPress site was replicated as a static site with a WordPress backend, this would improve accessibility and decrease page load times, making the site more extensible in the future.
 
 ### Online and IRL Sales
